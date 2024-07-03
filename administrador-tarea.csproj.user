@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <ItemGroup>
+        <Compile Update="ad-tarea.cs">
+            <SubType>Form</SubType>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="LICENSE.txt">
+	    	<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	    	<Pack>true</Pack>
+	    	<PackagePath></PackagePath>
+        </Content>
+	</ItemGroup>
+	<ItemGroup>
+		<AssemblyAttribute Include="System.Reflection.AssemblyCopyrightAttribute">
+			<_Parameter1>Copyright 2023 Daniel Briceño (dabl03@outlook.com)</_Parameter1>
+		</AssemblyAttribute>
+		<AssemblyAttribute Include="System.Reflection.AssemblyDescriptionAttribute">
+			<_Parameter1>Herramienta para administrar las tareas en segundo plano.</_Parameter1>
+		</AssemblyAttribute>
+	</ItemGroup>
+</Project>

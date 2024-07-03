@@ -1,0 +1,15 @@
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.AssemblyInfoInputs.cache
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.AssemblyInfo.cs
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.csproj.CoreCompileInputs.cache
+C:\Users\RUBI\projects\administrador-tarea\bin\Debug\net7.0-windows\LICENSE.txt
+C:\Users\RUBI\projects\administrador-tarea\bin\Debug\net7.0-windows\administrador-tarea.exe
+C:\Users\RUBI\projects\administrador-tarea\bin\Debug\net7.0-windows\administrador-tarea.deps.json
+C:\Users\RUBI\projects\administrador-tarea\bin\Debug\net7.0-windows\administrador-tarea.runtimeconfig.json
+C:\Users\RUBI\projects\administrador-tarea\bin\Debug\net7.0-windows\administrador-tarea.dll
+C:\Users\RUBI\projects\administrador-tarea\bin\Debug\net7.0-windows\administrador-tarea.pdb
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.dll
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\refint\administrador-tarea.dll
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.pdb
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\administrador-tarea.genruntimeconfig.cache
+C:\Users\RUBI\projects\administrador-tarea\obj\Debug\net7.0-windows\ref\administrador-tarea.dll

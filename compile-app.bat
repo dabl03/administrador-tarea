@@ -1,4 +1,4 @@
 @ECHO OFF
-echo Compilando...
-csc /win32icon:media/ad_tarea.ico /target:winexe ad-tarea.cs
+dotnet build
+:: Para iniciarlo seria dotnet new winforms -lang "c#" -n ad-tarea
 @ECHO ON
